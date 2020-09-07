@@ -2,7 +2,7 @@
 <img width="92%" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/0-profile-details.svg">
 </br>
 
-<!--<img width="45%" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/1-repos-per-language.svg">-->
+<img width="45%" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/1-repos-per-language.svg">
 <img width="45%" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/2-most-commit-language.svg">
 </br>
 </p>
