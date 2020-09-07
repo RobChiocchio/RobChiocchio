@@ -1,12 +1,19 @@
 <p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/0-profile-details.svg">
+<img width="92%" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/0-profile-details.svg">
+</br>
+
+<img width="45%" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/1-repos-per-language.svg">
+<img width="45%" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/2-most-commit-language.svg">
+</br>
 </p>
 
+---
 
-<span>
-<img width="45%" align="left" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/1-repos-per-language.svg">
-<img width="45%" align="right" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/2-most-commit-language.svg">
-</span>
+<p align="center">
+<a href="https://www.linkedin.com/in/RobChio/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"/></a>
+<a href="https://paypal.me/RobChiocchio"><img src="https://img.shields.io/badge/PayPal-%230079C1?logo=PayPal"/></a>
+</p>
+
 
 <!--
 ### Hi there 👋
@@ -27,10 +34,3 @@ Here are some ideas to get you started:
 <span style="font-famiily:Roboto; text-align:center;"><span style="color:#666666;">Made with :heart: in </span>**New Haven**</span>
 
 -->
-
----
-
-<p align="center">
-<a href="https://www.linkedin.com/in/RobChio/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"/></a>
-<a href="https://paypal.me/RobChiocchio"><img src="https://img.shields.io/badge/PayPal-%230079C1?logo=PayPal"/></a>
-</p>
