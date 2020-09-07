@@ -8,7 +8,6 @@
 <img width="45%" align="right" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/2-most-commit-language.svg">
 </span>
 
-
 <!--
 ### Hi there 👋
 
@@ -29,6 +28,9 @@ Here are some ideas to get you started:
 
 -->
 
+---
 
-[![linkedin.com/](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RobChio/)
-[![paypal.me/RobChiocchio](https://img.shields.io/badge/PayPal-%230079C1?logo=PayPal)](https://paypal.me/RobChiocchio)
+<p align="center">
+<a href="https://www.linkedin.com/in/RobChio/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"/></a>
+<a href="https://paypal.me/RobChiocchio"><img src="https://img.shields.io/badge/PayPal-%230079C1?logo=PayPal"/></a>
+</p>
