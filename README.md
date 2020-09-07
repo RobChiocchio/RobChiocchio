@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<span style="font-famiily:Roboto; text-align:center;"><span style="color:#666666;">Made with :heart: in </span>**New Haven**</span>
+
+[![paypal.me/RobChiocchio](https://img.shields.io/badge/PayPal-%230079C1?logo=PayPal)](https://paypal.me/RobChiocchio)
+
 -->
