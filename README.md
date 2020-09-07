@@ -1,7 +1,11 @@
-[![](https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img width="100%" align="center" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/0-profile-details.svg">
+</p>
 
-[![](https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<span>
+  <img width="45%" align="left" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img width="45%" align="right" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/2-most-commit-language.svg">
+</span>
 
 <!--
 ### Hi there 👋
@@ -23,6 +27,6 @@ Here are some ideas to get you started:
 
 -->
 
+
 [![linkedin.com/](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RobChio/)
 [![paypal.me/RobChiocchio](https://img.shields.io/badge/PayPal-%230079C1?logo=PayPal)](https://paypal.me/RobChiocchio)
-
