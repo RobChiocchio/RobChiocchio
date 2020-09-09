@@ -2,9 +2,9 @@
 <img width="92%" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/0-profile-details.svg">
 </br>
 
-<img width="30%" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/1-repos-per-language.svg">
-<img width="30%" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/2-most-commit-language.svg">
-<img src="https://raw.githubusercontent.com/vn7n24fzkq/RobethX/master/profile-summary-card-output/default/3-stats.svg">
+<img width="auto" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/1-repos-per-language.svg">
+<img width="auto" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/2-most-commit-language.svg">
+<img width="auto" src="https://raw.githubusercontent.com/RobethX/RobethX/master/profile-summary-card-output/default/3-stats.svg">
 </br>
 </p>
 
